@@ -1,5 +1,36 @@
 # Getting Started with Create React App
 
+
+# 📚 Book Finder App
+
+## 🧠 Description
+A React web application that allows users to search for books using the Google Books API.
+
+## 🚀 Live Demo
+[Open App](https://nd4rz3-3000.csb.app/)
+
+## 🧩 Tech Stack
+- React.js
+- CSS / Tailwind CSS
+- Google Books API
+
+## ⚙️ Setup Instructions
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/SwarupSahithi/Book-finder.git
+
+## Navigate to the project:
+2.cd Book-finder
+
+## install all dependecies
+3. npm install
+
+## Run the app
+4.npm start
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
